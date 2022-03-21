@@ -1,1 +1,1 @@
-<img align="right" alt="GIF" src="https://github.com/CyberPotat42/CyberPotat42/raw/main/kit.gif" />
+<img align="right" alt="GIF" src="https://github.com/L0rdLizard/L0rdLizard/blob/main/horo-holo.gif" />
