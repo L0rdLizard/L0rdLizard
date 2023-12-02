@@ -9,4 +9,4 @@
   <br>
 </details>
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats" /></p>
