@@ -5,7 +5,7 @@
 <details>
   <summary>Backend Developer from Saint Petersburg, Russia</summary>
   <br>
-  <img alt="GIF" height=200 src="https://github.com/cypotat/cypotat/raw/main/assets/meme/java-my-beloved.gif" />
+  <img alt="GIF" height=200 src="(https://github.com/L0rdLizard/L0rdLizard/blob/main/my-beloved-programming.gif)" />
   <br>
 </details>
 
