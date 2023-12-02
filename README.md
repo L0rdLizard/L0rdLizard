@@ -8,8 +8,5 @@
   <img alt="GIF" height=200 src="https://github.com/cypotat/cypotat/raw/main/assets/meme/java-my-beloved.gif" />
   <br>
 </details>
----
 
-### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p> (https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </p>
