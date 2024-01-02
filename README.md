@@ -9,4 +9,9 @@
   <br>
 </details>
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=percentile&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats" /></p>
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=percentile&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats" /></p> -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLizard&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=percentile&hide_rank=true&langs_count=6&hide=jupyter%20notebook" />
+</p>
+
