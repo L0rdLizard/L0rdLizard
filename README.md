@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/L0rdLizard/L0rdLizard/blob/main/catgrey.gif?" />
 <!-- <img align="right" alt="GIF" src="https://github.com/L0rdLizard/L0rdLizard/blob/main/Lampcat.gif?" /> -->
 <details>
-  <summary>Backend Developer from Saint Petersburg, Russia</summary>
+  <summary>C++ Developer from Saint Petersburg, Russia</summary>
   <br>
   <img alt="GIF" height=200 src="https://github.com/L0rdLizard/L0rdLizard/blob/main/my-beloved-programming.gif" />
   <br>
